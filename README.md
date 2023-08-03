@@ -1,2 +1,2 @@
 # AerospaceCalculator
-A simple calculator GUI for common aerospace calculations made with Python using tkinter library
+This was a project done as part of a freshmen engineering course at my university. It is a simple calculator GUI for common aerospace calculations made with Python using tkinter library. Uploading for reference of using tkinter for simple GUI projects. The mp4 files that the code searches for were not included in the initial commit for size, but links to the source can be found in works cited. No plans to update this, just for reference.
