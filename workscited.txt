@@ -1,0 +1,20 @@
+“102 - Density Altitude Calculations (Era Flug Aviation Tutorials).” YouTube, 3 Sept. 2014,
+    www.youtube.com/watch?v=9jwqeMjcVu8. Accessed 4 Dec. 2021.
+    
+“Eccentricity of an Ellipse.” YouTube, 7 Apr. 2018,
+    www.youtube.com/watch?v=9hyQksn80ug. Accessed 5 Dec. 2021.
+    
+“Gravitation (6 of 17) Calculating the Orbital Period of a Satelite.” YouTube, 23 May 2017,
+    www.youtube.com/watch?v=aFrItoUDA4E. Accessed 2 Dec. 2021.
+    
+“Reynolds Number Equation Explained - Fluid Mechanics (Is Flow Laminar, Transient, or Turbulent?).” YouTube, 22 Feb. 2019,
+    www.youtube.com/watch?v=Wo63dvz71xI&t=13s. Accessed 5 Dec. 2021.
+    
+“Tkinter — Python Interface to Tcl/Tk — Python 3.10.0 Documentation.” Python Docs,
+    docs.python.org/3/library/tkinter.html. Accessed 5 Dec. 2021.
+    
+“Understanding Aerodynamics - The Drag Formula.” YouTube, 26 Nov. 2016,
+    www.youtube.com/watch?v=SyZu744vQXg&t=34s. Accessed 3 Dec. 2021.
+    
+“Understanding Aerodynamic Lift.” YouTube, 9 Feb. 2021,
+    www.youtube.com/watch?v=E3i_XHlVCeU&t=7s. Accessed 3 Dec. 2021.
